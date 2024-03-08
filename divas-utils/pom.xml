@@ -22,12 +22,13 @@
 
 	<dependencies>		
 		<!-- The core library -->
+		<!-- https://mvnrepository.com/artifact/org.jmonkeyengine/jme3-core -->
 		<dependency>
-			<groupId>jme3</groupId>
-			<artifactId>jME3-core</artifactId>
-			<version>${jmonkey.version}</version>
+    			<groupId>org.jmonkeyengine</groupId>
+    			<artifactId>jme3-core</artifactId>
+    			<version>3.6.1-stable</version>
 		</dependency>
-				<dependency>
+		<dependency>
 		    <groupId>com.vividsolutions</groupId>
 		    <artifactId>jts</artifactId>
 		    <version>1.13</version>
