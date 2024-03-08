@@ -14,7 +14,7 @@
 	<artifactId>divas-core</artifactId>
 	<name>divas-core</name>
 	<packaging>jar</packaging>
-
+	
 	<!-- ======================================= -->
 	<!-- ==== Dependencies === -->
 	<!-- ======================================= -->
@@ -78,29 +78,29 @@
 		<dependency>
 			<groupId>jme3</groupId>
 			<artifactId>jME3-core</artifactId>
-			<version>${jmonkey.version}</version>
+			<version>3.6.1-stable</version>
 		</dependency>
 		<!-- LWJGL stuff -->
 		<dependency>
 			<groupId>jme3</groupId>
 			<artifactId>jME3-lwjgl</artifactId>
-			<version>${jmonkey.version}</version>
+			<version>3.6.1-stable</version>
 		</dependency>
 		<dependency>
 			<groupId>jme3</groupId>
 			<artifactId>jME3-lwjgl-natives</artifactId>
-			<version>${jmonkey.version}</version>
+			<version>3.6.1-stable</version>
 		</dependency>
 		<dependency>
 			<groupId>jme3</groupId>
 			<artifactId>lwjgl</artifactId>
-			<version>${jmonkey.version}</version>
+			<version>3.6.1-stable</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.jmonkeyengine/jme3-desktop -->
 		<dependency>
     			<groupId>org.jmonkeyengine</groupId>
     			<artifactId>jme3-desktop</artifactId>
-    		<version>3.6.1-stable</version>
+    			<version>3.6.1-stable</version>
 		</dependency>
 	</dependencies>
 </project>
