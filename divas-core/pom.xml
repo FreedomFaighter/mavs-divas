@@ -75,12 +75,6 @@
 			<artifactId>jme3-core</artifactId>
 			<version>3.6.1-stable</version>
 		</dependency>
-		<!-- LWJGL stuff -->
-		<dependency>
-			<groupId>org.jmonkeyengine</groupId>
-			<artifactId>jme3-lwjgl</artifactId>
-			<version>3.6.1-stable</version>
-		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.jmonkeyengine/jme3-desktop -->
 		<dependency>
     			<groupId>org.jmonkeyengine</groupId>
