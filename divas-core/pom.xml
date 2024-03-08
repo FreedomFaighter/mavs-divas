@@ -96,10 +96,11 @@
 			<artifactId>lwjgl</artifactId>
 			<version>${jmonkey.version}</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.jmonkeyengine/jme3-desktop -->
 		<dependency>
-			<groupId>jme3</groupId>
-			<artifactId>jME3-desktop</artifactId>
-			<version>${jmonkey.version}</version>
+    			<groupId>org.jmonkeyengine</groupId>
+    			<artifactId>jme3-desktop</artifactId>
+    		<version>3.6.1-stable</version>
 		</dependency>
 	</dependencies>
 </project>
