@@ -127,10 +127,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 		<module>divas-mts</module>
 		<module>divas-core</module>
 		<module>divas-visualization</module>
-		<module>evacuation-visualization</module>
 		<module>divas-gui</module>
-		<module>evacuation-simulation</module>
-		<module>evacuation-gui</module>
 	</modules>
 
 	<!-- ======================================= -->
