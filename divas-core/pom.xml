@@ -87,5 +87,11 @@
     			<artifactId>lwjgl-opengl</artifactId>
     			<version>3.3.3</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.github.awvalenti.wiiusej/wiiusej-lib -->
+		<dependency>
+    			<groupId>com.github.awvalenti.wiiusej</groupId>
+    			<artifactId>wiiusej-lib</artifactId>
+    			<version>0.14</version>
+		</dependency>
 	</dependencies>
 </project>
